@@ -1,2 +1,2 @@
-# email-spam-classifier-new
-End to end code for the email spam classifier project
+# email-fraud-detection
+End to end code for the email fraud detection project
